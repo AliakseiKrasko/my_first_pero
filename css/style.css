@@ -91,6 +91,17 @@ main {
     color: #656565;
 }
 
+.image-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.image-container img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
 h1, h2 {color: #ca6c6c}
 
 aside {
